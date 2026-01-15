@@ -122,19 +122,19 @@ function Carrossel() {
                             <Slide03 />
                         </article>
                     </div>
-                    {/* Slide 3 */}
+                    {/* Slide 4 */}
                     <div className="flex-[0_0_100%]">
                         <article className="overflow-hidden max-h-[70vh] flex flex-col">
                             <Slide04 />
                         </article>
                     </div>
-                    {/* Slide 3 */}
-                    <div className="flex-[0_0_100%]">
+                    {/* Slide 5 */}
+                    {/* <div className="flex-[0_0_100%]">
                         <article className="overflow-hidden max-h-[70vh] flex flex-col">
                             <Slide05 />
                         </article>
-                    </div>
-                </div>
+                    </div>*/}
+                </div> 
 
                 {/* Botões de Navegação - Anterior e Próximo */}
                 {/* Botão Anterior */}

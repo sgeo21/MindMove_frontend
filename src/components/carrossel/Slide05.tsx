@@ -15,12 +15,12 @@ function Slide01() {
                         {/* Botões de ação */}
                         <div className="mt-10 flex gap-4 justify-center">
                             {/* Botão que leva para a página Categorias*/}
-                            <Link
+                            {/* <Link
                                 to=''
                                 className="px-4 py-2 rounded-3xl lg:rounded-full bg-white/25 hover:bg-white/85 border border-white transition"
                             >
                                 Categorias
-                            </Link>
+                            </Link> */}
                         </div>
                     </div>
                 </div>
