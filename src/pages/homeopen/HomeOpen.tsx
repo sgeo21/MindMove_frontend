@@ -116,7 +116,7 @@ function Home() {
                                 <GithubLogoIcon size={40} className="text-red-400" weight="fill" />
                             </a>
 
-                            <a href="https://www.linkedin.com/in/sgeo21/" target="_blank">
+                            <a href="https://www.linkedin.com/in/geovana-cazali/" target="_blank">
                                 <LinkedinLogoIcon size={40} className="text-red-400" weight="fill" />
                             </a>
 
@@ -152,7 +152,7 @@ function Home() {
                         </p>
                         <div className="flex gap-5 mt-6 justify-center">
 
-                            <a href="https://github.com/ThuanyAline" target="_blank">
+                            <a href="https://www.linkedin.com/in/thuanyalinesilva/" target="_blank">
                                 <GithubLogoIcon size={40} className="text-yellow-500" weight="fill" />
                             </a>
 
