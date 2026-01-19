@@ -179,7 +179,7 @@ function FormExercicios() {
                     </div>
 
                     <div className="flex flex-col gap-2">
-                        <label htmlFor="descricao">Descição do Exercício</label>
+                        <label htmlFor="descricao">Descrição do Exercício</label>
                         <input
                             type="text"
                             placeholder="Descrição"

@@ -116,12 +116,12 @@ function Cadastro() {
 						/>
 					</div>
 					<div className="flex flex-col w-full">
-						<label htmlFor="usuario">Usuario</label>
+						<label htmlFor="usuario">Usuário (e-mail)</label>
 						<input
 							type="text"
 							id="usuario"
 							name="usuario"
-							placeholder="Usuario"
+							placeholder="Usuário (e-mail123@exemplo.com)"
 							className="border-2 border-[#BEBDBD] rounded-3xl p-3 text-gray-700 shadow-sm"
               value={usuario.usuario}
               onChange={(e: ChangeEvent<HTMLInputElement>) => atualizarEstado(e)}
