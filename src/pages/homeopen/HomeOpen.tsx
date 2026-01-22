@@ -152,7 +152,7 @@ function Home() {
                         </p>
                         <div className="flex gap-5 mt-6 justify-center">
 
-                            <a href="https://www.linkedin.com/in/thuanyalinesilva/" target="_blank">
+                            <a href="https://github.com/ThuanyAline" target="_blank">
                                 <GithubLogoIcon size={40} className="text-yellow-500" weight="fill" />
                             </a>
 
@@ -176,7 +176,7 @@ function Home() {
                                 <GithubLogoIcon size={40} className="text-red-400" weight="fill" />
                             </a>
 
-                            <a href="#" target="_blank">
+                            <a href="https://www.linkedin.com/in/andressa-funes" target="_blank">
                                 <LinkedinLogoIcon size={40} className="text-red-400" weight="fill" />
                             </a>
 
@@ -195,7 +195,7 @@ function Home() {
                                 <GithubLogoIcon size={40} className="text-purple-500" weight="fill" />
                             </a>
 
-                            <a href="#" target="_blank">
+                            <a href="https://www.linkedin.com/in/bianca-maria-da-silva" target="_blank">
                                 <LinkedinLogoIcon size={40} className="text-purple-500" weight="fill" />
                             </a>
 
@@ -235,7 +235,7 @@ function Home() {
                                 <GithubLogoIcon size={40} className="text-red-400" weight="fill" />
                             </a>
 
-                            <a href="#" target="_blank">
+                            <a href="https://www.linkedin.com/in/rayssa-ferraz" target="_blank">
                                 <LinkedinLogoIcon size={40} className="text-red-400" weight="fill" />
                             </a>
 
